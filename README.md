@@ -1,16 +1,16 @@
-### Hi there 👋
+## Junsung Lee
+📍 **Republic of Korea**\
+🎓 **19 y/o freshman. in univ.**\
+📩 **Twitter [@0x4248](http://twitter.com/0x4248)**\
+\
+Interested in researching **Apple**'s products
 
-<!--
-**0x4248/0x4248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### CVEs(2023/Fall)
+- CVE-2023-40447 : Apple Safari 17.1
+- CVE-2023-41976 : Apple Safari 17.1
+- CVE-2023-41983 : Apple Safari 17.1
+- CVE-2023-40420 : Apple CoreAnimation
+- CVE-2023-41074 : Apple Safari 17.0
+- CVE-2023-38597 : Apple Safari 16.6
+\
+...
