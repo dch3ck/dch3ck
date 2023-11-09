@@ -6,6 +6,7 @@
 Interested in researching **Apple**'s products
 
 ### CVEs(2023/Fall)
+- CVE-2023-5859  : Google Chrome 119.0.6045.105
 - CVE-2023-40447 : Apple Safari 17.1
 - CVE-2023-41976 : Apple Safari 17.1
 - CVE-2023-41983 : Apple Safari 17.1
