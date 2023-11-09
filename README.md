@@ -12,7 +12,9 @@ Interested in researching **Apple**'s products
 - CVE-2023-41976 : Apple Safari 17.1
 - CVE-2023-41983 : Apple Safari 17.1
 - CVE-2023-40420 : Apple CoreAnimation
+- CVE-2023-42875 : Apple Safari 17.0
 - CVE-2023-41074 : Apple Safari 17.0
+- CVE-2023-42866 : Apple Safari 16.6
 - CVE-2023-38597 : Apple Safari 16.6
 \
 ...
