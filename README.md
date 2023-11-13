@@ -17,3 +17,5 @@ Interested in researching **Apple**'s products
 - CVE-2023-41074 : Apple Safari 17.0
 - CVE-2023-42866 : Apple Safari 16.6
 - CVE-2023-38597 : Apple Safari 16.6
+- CVE-2023-3417  : [Mozilla Thunderbird](https://www.mozilla.org/en-US/security/advisories/mfsa2023-28/) 102.13.1
+- CVE-2023-34658 : Telegram iOS 9.6.3
