@@ -8,7 +8,8 @@ Interested in researching **Apple**'s products
 
 ### CVEs(2023/Fall)
 - CVE-2023-5859  : Google Chrome 119.0.6045.105
-- ZDI-CAN-22250  : Apple Image I/O
+- ZDI-CAN-22250  : Apple (TBD)
+- ZDI-CAN-22307  : Apple (TBD)
 - CVE-2023-40447 : Apple Safari 17.1
 - CVE-2023-41976 : Apple Safari 17.1
 - CVE-2023-41983 : Apple Safari 17.1
@@ -19,3 +20,5 @@ Interested in researching **Apple**'s products
 - CVE-2023-38597 : Apple Safari 16.6
 - CVE-2023-3417  : Improper Input Validation in [Mozilla Thunderbird](https://www.mozilla.org/en-US/security/advisories/mfsa2023-28/) 102.13.1
 - CVE-2023-34658 : Telegram iOS 9.6.3
+
+### CVEs(2023/Winter)
