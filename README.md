@@ -7,6 +7,8 @@
 Interested in researching **Apple**'s products
 
 ### CVEs(2023/Fall)
+- CVE-2023-42899 : Apple ImageIO (Upcoming update)
+- CVE-2023-42898 : Apple ImageIO (Upcoming update)
 - CVE-2023-5859  : Google Chrome 119.0.6045.105
 - ZDI-CAN-22250  : Apple (TBD)
 - ZDI-CAN-22307  : Apple (TBD)
