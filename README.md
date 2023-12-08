@@ -4,7 +4,6 @@
 💼 **Working in [CW Research Lab](https://twitter.com/cwresearchlab)**\
 📩 **Twitter [@0x4248](http://twitter.com/0x4248)**\
 \
-Interested in researching **Apple**'s products
 
 ### CVEs(2023/Fall)
 - CVE-2023-42899 : Apple ImageIO (Upcoming update)
